@@ -15,6 +15,6 @@ From our results, we saw a left shift in the ratings from 2015 to 2016. This was
 
 This could be explained by Fandango changing their rating algorithm. Indeed, we compared the shift from 2015 to 2016 and the shift from displayed ratings and actual ratings in 2015, and they look similar. However, as our sample size is relatively small, we cannot exclude that this is simply due to other extrinsic factors in movie ratings between 2015 and 2016. 
 
-![]()
-![]()
-![]()
+![](https://github.com/OlaOlagunju/Fandango_Ratings_Project/blob/main/fig_1.png)
+![](https://github.com/OlaOlagunju/Fandango_Ratings_Project/blob/main/fig_2.png)
+![](https://github.com/OlaOlagunju/Fandango_Ratings_Project/blob/main/fig_3.png)
