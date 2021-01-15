@@ -1,5 +1,7 @@
 # Analyzing the Inflation of Fandango Ratings from 2015-2017
 
+[Full Project Link](https://github.com/OlaOlagunju/Fandango_Ratings_Project/blob/main/Full%20Project%20-%20Analyzing%20the%20Inflation%20of%20Fandango%20Ratings%20from%202015-2017.ipynb)
+
 ## Summary
 In this project, we investigated Fandango movie ratings. The ratings go from zero to five stars, in increment of 0.5 stars. In this [article](https://fivethirtyeight.com/features/fandango-movies-ratings/), Walt Hickey found out that the ratings displayed on Fandago's website were higher than the actual ratings. More precisely:
 - The rating was almost always rounded up to the next multiple of 0.5. For example, 4.1 would be rounded to 4.5 instead of 4.
